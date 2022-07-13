@@ -8,12 +8,12 @@ import SubHeading from "./SubHeading";
 const App = () => {
   return (
     <div id="main">
-      < Heading/>
-      < SubHeading/>
-      < InputQuery/>
+      <Heading/>
+      <SubHeading/>
+      <InputQuery/>
       <SubmitButton/>
     </div>
   )
 }
-
+export default './App.js';
 

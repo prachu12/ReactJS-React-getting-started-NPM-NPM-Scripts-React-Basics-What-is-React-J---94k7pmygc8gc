@@ -5,4 +5,4 @@ function Heading() {
         <h1>Welcome to our Site.</h1>
     )
 }
-export default './App.js';
+export default Heading;
